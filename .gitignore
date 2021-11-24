@@ -1,0 +1,7 @@
+node_modules
+.env
+.secret
+
+contracts/.placeholder
+test/.placeholder
+build
