@@ -9,6 +9,7 @@
   "dependencies": {},
   "devDependencies": {
     "@openzeppelin/contracts": "^4.3.3",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "chai": "^4.3.4",
     "chai-bignumber": "^3.0.0",
     "coveralls": "^3.1.1",
@@ -25,7 +26,6 @@
     "solidity-coverage": "^0.7.17",
     "solium": "^1.2.5",
     "truffle": "^5.4.22",
-    "truffle-hdwallet-provider": "^1.0.17",
     "web3-utils": "^1.6.1"
   },
   "scripts": {
